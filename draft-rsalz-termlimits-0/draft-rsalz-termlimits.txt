@@ -2,8 +2,8 @@
 
 
 
-TBD                                                            Y.N. Here
-Internet-Draft                                    Your Organization Here
+TBD                                                              R. Salz
+Internet-Draft                                 Akamai Technologies, Inc.
 Intended status: Informational                           20 October 2021
 Expires: 23 April 2022
 
@@ -106,7 +106,7 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
+   Rich Salz
+   Akamai Technologies, Inc.
 
-   Email: your.email@example.com
+   Email: rsalz@akamai.com
