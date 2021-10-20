@@ -22,14 +22,14 @@
 #
 # Delete this comment when you are done.
 #
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Term limits for IETF Leadership Positions"
+abbrev: "termlimits"
 docname: draft-todo-yourname-protocol-latest
 category: info
 
 ipr: trust200902
-area: TODO
-workgroup: TODO Working Group
+area: gen
+workgroup: TBD
 keyword: Internet-Draft
 
 stand_alone: yes
@@ -49,30 +49,30 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This document says that nobody can be picked by NomCom for a position more
+than two consecutive terms.
 
+It obsoletes some other documents, which ones are TBD.
 
 --- middle
 
 # Introduction
 
-TODO Introduction
-
+After a person has served two consecutive terms in any NomCom-chosen
+position, they are ineligible to directly serve for another term in any
+NomCom-chosen position; there must be a gap of at least one year.
 
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
 
-
 # Security Considerations
 
-TODO Security
-
+This document has no security considerations.
 
 # IANA Considerations
 
 This document has no IANA actions.
-
 
 --- back
 
