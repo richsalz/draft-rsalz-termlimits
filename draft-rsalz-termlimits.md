@@ -10,18 +10,6 @@
 # You can edit the contents of the document as the same time.
 # Initial setup only needs the filename and title.
 # If you change title or name later, you can run the "Rewrite README" action.
-#
-# Do not include "-latest" in the file name.
-# The tools use "draft-<name>-latest" to find the draft name *inside* the draft,
-# such as the "docname" field below, and replace it with a draft number.
-# The "docname" field below can be left alone: it will be updated for you.
-#
-# This template uses kramdown-rfc2629: https://github.com/cabo/kramdown-rfc2629
-# You can replace the entire file if you prefer a different format.
-# Change the file extension to match the format (.xml for XML, etc...)
-#
-# Delete this comment when you are done.
-#
 title: "Term limits for IETF Leadership Positions"
 abbrev: "termlimits"
 docname: draft-rsalz-termlimits-latest
@@ -38,9 +26,9 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    name: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    name: Rich Salz
+    organization: Akamai Technologies, Inc.
+    email: rsalz@akamai.com
 
 normative:
 
