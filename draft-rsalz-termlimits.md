@@ -61,6 +61,7 @@ It obsoletes some other documents, which ones are TBD.
 After a person has served two consecutive terms in any NomCom-chosen
 position, they are ineligible to directly serve for another term in any
 NomCom-chosen position; there must be a gap of at least one year.
+This rule goes into effect starting in March, 2023.
 
 # Conventions and Definitions
 
